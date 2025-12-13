@@ -5759,7 +5759,10 @@
     "cover": "{COVER_URL}/644.png",
     "url": "{HTML_URL}/644.html",
     "author": "NonsenseNH",
-    "authorLink": "https://www.youtube.com/channel/UCnp4LuZgNt0KwiTMSZN7GIw"
+    "authorLink": "https://www.youtube.com/channel/UCnp4LuZgNt0KwiTMSZN7GIw",
+    "special": [
+      "fnf"
+    ]
   },
   {
     "id": 645,
@@ -5768,6 +5771,17 @@
     "url": "{HTML_URL}/645.html",
     "author": "Varun R.",
     "authorLink": "https://varunramesh.itch.io/arthurs-nightmare",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 646,
+    "name": "Buster Jam",
+    "cover": "{COVER_URL}/646.png",
+    "url": "{HTML_URL}/646.html",
+    "author": "TALL GLASS",
+    "authorLink": "https://www.tallglassgames.com/",
     "special": [
       "port"
     ]
