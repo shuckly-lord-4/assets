@@ -5852,5 +5852,93 @@
     "url": "{HTML_URL}/671.html",
     "author": "Ncase",
     "authorLink": "https://ncase.itch.io/wbwwb"
+  },
+  {
+    "id": 672,
+    "name": "A Difficult Game About Climbing",
+    "cover": "{COVER_URL}/672.png",
+    "url": "{HTML_URL}/672.html",
+    "author": "Pontypants",
+    "authorLink": "https://store.steampowered.com/app/2497920/A_Difficult_Game_About_Climbing/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 673,
+    "name": "Hobo 1",
+    "cover": "{COVER_URL}/673.png",
+    "url": "{HTML_URL}/673.html",
+    "author": "SeethingSwarm",
+    "authorLink": "https://seethingswarm.newgrounds.com/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 674,
+    "name": "Hobo 2",
+    "cover": "{COVER_URL}/674.png",
+    "url": "{HTML_URL}/674.html",
+    "author": "SeethingSwarm",
+    "authorLink": "https://seethingswarm.newgrounds.com/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 675,
+    "name": "Hobo 3",
+    "cover": "{COVER_URL}/675.png",
+    "url": "{HTML_URL}/675.html",
+    "author": "SeethingSwarm",
+    "authorLink": "https://seethingswarm.newgrounds.com/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 676,
+    "name": "Hobo 4",
+    "cover": "{COVER_URL}/676.png",
+    "url": "{HTML_URL}/676.html",
+    "author": "SeethingSwarm",
+    "authorLink": "https://seethingswarm.newgrounds.com/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 677,
+    "name": "Hobo 5",
+    "cover": "{COVER_URL}/677.png",
+    "url": "{HTML_URL}/677.html",
+    "author": "SeethingSwarm",
+    "authorLink": "https://seethingswarm.newgrounds.com/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 678,
+    "name": "Hobo 6",
+    "cover": "{COVER_URL}/678.png",
+    "url": "{HTML_URL}/678.html",
+    "author": "SeethingSwarm",
+    "authorLink": "https://seethingswarm.newgrounds.com/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 679,
+    "name": "Hobo 7",
+    "cover": "{COVER_URL}/679.png",
+    "url": "{HTML_URL}/679.html",
+    "author": "SeethingSwarm",
+    "authorLink": "https://seethingswarm.newgrounds.com/",
+    "special": [
+      "flash"
+    ]
   }
 ]
