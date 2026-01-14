@@ -6050,5 +6050,27 @@
     "special": [
       "flash"
     ]
+  },
+   {
+    "id": 690,
+    "name": "Friday Night Funkin': AKAGE",
+    "cover": "{COVER_URL}/690.png",
+    "url": "{HTML_URL}/690.html",
+    "author": "owoskitty etc",
+    "authorLink": "https://gamebanana.com/mods/578842" ,
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 691,
+    "name": "Friday Night Funkin': Heartbreak Havoc [Vs. Sky: REDUX]",
+    "cover": "{COVER_URL}/691.png",
+    "url": "{HTML_URL}/691.html",
+    "author": "REDUX Team",
+    "authorLink": "https://gamebanana.com/mods/632935" ,
+    "special": [
+      "fnf"
+    ]
   }
 ]
