@@ -161,7 +161,7 @@
     "id": 20,
     "name": "Tall Man Run",
     "cover": "{COVER_URL}/20.png",
-    "url": "{HTML_URL}/20.html",
+    "url": "{HTML_URL}/20a.html",
     "author": "Supersonic Studios LTD",
     "authorLink": "https://play.google.com/store/apps/details?id=com.VectorUpGames.TallManRun"
   },
@@ -1492,7 +1492,7 @@
     "id": 188,
     "name": "Scrap Metal 3",
     "cover": "{COVER_URL}/188.png",
-    "url": "{HTML_URL}/188.html",
+    "url": "{HTML_URL}/188e.html",
     "author": "Ciorbyn",
     "authorLink": "https://www.ciorbynstudio.com"
   },
@@ -2805,7 +2805,7 @@
     "id": 329,
     "name": "TileTopia",
     "cover": "{COVER_URL}/329.png",
-    "url": "{HTML_URL}/329.html",
+    "url": "{HTML_URL}/329a.html",
     "author": "GameSnacks",
     "authorLink": "https://gamesnacks.com/games/6nilllqpgkm6o"
   },
@@ -3172,7 +3172,7 @@
     "id": 371,
     "name": "Stickman Fight Ragdoll",
     "cover": "{COVER_URL}/371.png",
-    "url": "{HTML_URL}/371.html",
+    "url": "{HTML_URL}/371e.html",
     "author": "Vanorium",
     "authorLink": "https://playem.io/dev/vanorium"
   },
@@ -3196,7 +3196,7 @@
     "id": 374,
     "name": "Stickman Golf",
     "cover": "{COVER_URL}/374.png",
-    "url": "{HTML_URL}/374.html",
+    "url": "{HTML_URL}/374e.html",
     "author": "NoodleCake",
     "authorLink": "https://noodlecake.com"
   },
