@@ -133,7 +133,7 @@ function createUnityInstance(e, t, n) {
                 type: "application/javascript"
             }));
             return new Promise(function (e, n) {
-                var r = document.createElement("script");
+                var r = document.create("script");
                 r.src = t, r.onload = function () {
                     var n = unityFramework;
                     unityFramework = null, r.onload = null, URL.revokeObjectURL(t), e(n)
@@ -307,7 +307,7 @@ function createUnityInstance(e, t, n) {
         }
 
         function t(e) {
-            return t.link = t.link || document.createElement(" a"), t.link.href = e, t.link.href
+            return t.link = t.link || document.createElement("a"), t.link.href = e, t.link.href
         }
 
         function n(e) {
