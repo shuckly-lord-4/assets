@@ -991,7 +991,7 @@
     "id": 114,
     "name": "2048",
     "cover": "{COVER_URL}/114.png",
-    "url": "{HTML_URL}/114.html",
+    "url": "{HTML_URL}/114-f.html",
     "author": "Gabriele Cirulli",
     "authorLink": "https://github.com/gabrielecirulli"
   },
@@ -6129,5 +6129,21 @@
       "emulator",
       "nds"
     ]
+  },
+  {
+    "id": 697,
+    "name": "Bank Robbery",
+    "cover": "{COVER_URL}/697.png",
+    "url": "{HTML_URL}/697.html",
+    "author": "justaliendev",
+    "authorLink": "https://www.crazygames.com/game/bank-robbery"
+  },
+  {
+    "id": 698,
+    "name": "Bank Robbery 3",
+    "cover": "{COVER_URL}/698.png",
+    "url": "{HTML_URL}/698.html",
+    "author": "justaliendev",
+    "authorLink": "https://www.crazygames.com/game/bank-robbery-3"
   }
 ]
