@@ -6164,5 +6164,13 @@
     "special": [
       "fnf"
     ]
+  },
+  {
+    "id": 701,
+    "name": "Real Flight Simulator",
+    "cover": "{COVER_URL}/701.png",
+    "url": "{HTML_URL}/701.html",
+    "author": "freezenova",
+    "authorLink": "https://unblocked-games.s3.amazonaws.com/index.html" 
   }
 ]
