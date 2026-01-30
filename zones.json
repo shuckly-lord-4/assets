@@ -6153,5 +6153,16 @@
     "url": "{HTML_URL}/699.html",
     "author": "freezenova",
     "authorLink": "https://unblocked-games.s3.amazonaws.com/index.html"
+  },
+  {
+    "id": 700,
+    "name": "FNF vs Pibby Corrupted",
+    "cover": "{COVER_URL}/700.png",
+    "url": "{HTML_URL}/700.html",
+    "author": "Pibby Corrupted team",
+    "authorLink": "https://gamebanana.com/mods/download/344757" ,
+    "special": [
+      "fnf"
+    ]
   }
 ]
