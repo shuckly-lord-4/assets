@@ -6172,5 +6172,13 @@
     "url": "{HTML_URL}/701.html",
     "author": "freezenova",
     "authorLink": "https://unblocked-games.s3.amazonaws.com/index.html" 
+  },
+  {
+    "id": 702,
+    "name": "JavascriptPS1",
+    "cover": "{COVER_URL}/701.png",
+    "url": "{HTML_URL}/701.html",
+    "author": "Alex Ashnov",
+    "authorLink": "https://github.com/AlexAshnovSrc/JavascriptPS1"
   }
 ]
