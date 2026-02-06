@@ -6197,8 +6197,19 @@
     "name": "Five Nights at Freddy's: World Refreshed",
     "cover": "{COVER_URL}/704.png",
     "url": "{HTML_URL}/704-fix.html",
-    "author": "Pyturret",
-    "authorLink": "https://gamejolt.com/games/FWrefreshed/946129",
+    "author": "Pyturret, Willowy (squall.cc)",
+    "authorLink": "https://squall.cc",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 705,
+    "name": "Iron Lung",
+    "cover": "{COVER_URL}/705.png",
+    "url": "{HTML_URL}/705.html",
+    "author": "David Szymanski, 98corbins",
+    "authorLink": "https://store.steampowered.com/app/1846170/Iron_Lung/",
     "special": [
       "port"
     ]
