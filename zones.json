@@ -6218,7 +6218,7 @@
     "id": 706,
     "name": "Fear & Hunger",
     "cover": "{COVER_URL}/706.png",
-    "url": "{HTML_URL}/706.html",
+    "url": "{HTML_URL}/706-fix.html",
     "author": "Miro Haverinen, Happy Paintings",
     "authorLink": "https://store.steampowered.com/app/1002300/Fear__Hunger/",
     "special": [
@@ -6229,7 +6229,7 @@
     "id": 707,
     "name": "Traffic Racer",
     "cover": "{COVER_URL}/707.png",
-    "url": "{HTML_URL}/707.html",
+    "url": "{HTML_URL}/707-fix.html",
     "author": "skgames, madkidgames",
     "authorLink": "https://play.google.com/store/apps/details?id=com.skgames.trafficracer&hl=en_US"
   }
