@@ -5817,7 +5817,7 @@
     "cover": "{COVER_URL}/668.png",
     "url": "{HTML_URL}/668-fix2.html",
     "author": "Another Axiom Inc, Boolonx",
-    "authorLink": "https://boolonx.com/gtag/",
+    "authorLink": "https://boolonx.com/gtag/?utm_source=gn-math.dev&utm_medium=referral&utm_campaign=gn-math.dev",
     "special": [
       "port"
     ]
@@ -6198,7 +6198,7 @@
     "cover": "{COVER_URL}/704.png",
     "url": "{HTML_URL}/704-fix.html",
     "author": "Pyturret, Willowy (squall.cc)",
-    "authorLink": "https://squall.cc",
+    "authorLink": "https://squall.cc?utm_source=gn-math.dev&utm_medium=referral&utm_campaign=gn-math.dev",
     "special": [
       "port"
     ]
@@ -6232,5 +6232,13 @@
     "url": "{HTML_URL}/707-fix.html",
     "author": "skgames, madkidgames",
     "authorLink": "https://play.google.com/store/apps/details?id=com.skgames.trafficracer&hl=en_US"
+  },
+  {
+    "id": 708,
+    "name": "Needy Streamer Overload",
+    "cover": "{COVER_URL}/708.png",
+    "url": "{HTML_URL}/708.html",
+    "author": "WSS playground, EDURocks",
+    "authorLink": "https://edurocks.org?utm_source=gn-math.dev&utm_medium=referral&utm_campaign=gn-math.dev"
   }
 ]
