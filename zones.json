@@ -6240,5 +6240,13 @@
     "url": "{HTML_URL}/708-fix.html",
     "author": "WSS playground, EDURocks",
     "authorLink": "https://edurocks.org?utm_source=gn-math.dev&utm_medium=referral&utm_campaign=gn-math.dev"
+  },
+  {
+    "id": 709,
+    "name": "Survivor.io",
+    "cover": "{COVER_URL}/709.png",
+    "url": "{HTML_URL}/709.html",
+    "author": "Habby Pte. Ltd, madkidgames",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.dxx.firenow"
   }
 ]
