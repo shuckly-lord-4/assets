@@ -6212,7 +6212,8 @@
     "authorLink": "https://store.steampowered.com/app/1846170/Iron_Lung/",
     "special": [
       "port"
-    ]
+    ],
+    "featured": true
   },
   {
     "id": 706,
@@ -6251,5 +6252,17 @@
     "url": "{HTML_URL}/709-fixagain.html",
     "author": "Habby Pte. Ltd, madkidgames",
     "authorLink": "https://play.google.com/store/apps/details?id=com.dxx.firenow"
+  },
+  {
+    "id": 710,
+    "name": "Five Nights at Epstein's",
+    "cover": "{COVER_URL}/710.png",
+    "url": "{HTML_URL}/710.html",
+    "author": "Habby Pte. Ltd, madkidgames",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.dxx.firenow",
+    "special": [
+      "port"
+    ],
+    "featured": true
   }
 ]
