@@ -6257,9 +6257,9 @@
     "id": 710,
     "name": "Five Nights at Epstein's",
     "cover": "{COVER_URL}/710.png",
-    "url": "{HTML_URL}/710.html",
+    "url": "{HTML_URL}/710-fix.html",
     "author": "EvanProductions",
-    "authorLink": "https://play.google.com/store/apps/details?id=com.dxx.firenow",
+    "authorLink": "https://evanproductions.itch.io/five-nights-at-epsteins",
     "special": [
       "port"
     ],
