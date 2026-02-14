@@ -6298,5 +6298,27 @@
     "special": [
       "emulator"
     ]
+  },
+  {
+    "id": 714,
+    "name": "Friday Night Funkin vs Tabi",
+    "cover": "{COVER_URL}/714.png",
+    "url": "{HTML_URL}/714.html",
+    "author": "SangMareZG",
+    "authorLink": "https://gamebanana.com/mods/587524",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 715,
+    "name": "Friday Night Funkin vs Zardy",
+    "cover": "{COVER_URL}/715.png",
+    "url": "{HTML_URL}/715.html",
+    "author": "SwankyBox",
+    "authorLink": "https://gamebanana.com/mods/44366",
+    "special": [
+      "fnf"
+    ]
   }
 ]
