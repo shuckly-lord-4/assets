@@ -6264,5 +6264,17 @@
       "port"
     ],
     "featured": true
+  },
+  {
+    "id": 711,
+    "name": "Antonblast",
+    "cover": "{COVER_URL}/711.png",
+    "url": "{HTML_URL}/711.html",
+    "author": "Summitsphere",
+    "authorLink": "https://store.steampowered.com/app/1887400/ANTONBLAST/",
+    "special": [
+      "port"
+    ],
+    "featured": true
   }
 ]
