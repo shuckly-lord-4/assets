@@ -6287,5 +6287,16 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 713,
+    "name": "Silent Hill",
+    "cover": "{COVER_URL}/713.png",
+    "url": "{HTML_URL}/713.html",
+    "author": "Konami, Team Silent",
+    "authorLink": "https://www.konami.com",
+    "special": [
+      "emulator"
+    ]
   }
 ]
