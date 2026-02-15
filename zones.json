@@ -6325,7 +6325,7 @@
     "id": 716,
     "name": "Clover Pit",
     "cover": "{COVER_URL}/716.png",
-    "url": "{HTML_URL}/716.html",
+    "url": "{HTML_URL}/716-fix2.html",
     "author": "Panik Arcade",
     "authorLink": "https://store.steampowered.com/app/3314790/CloverPit/",
     "special": [
@@ -6336,9 +6336,20 @@
     "id": 717,
     "name": "Peaks of Yore",
     "cover": "{COVER_URL}/717.png",
-    "url": "{HTML_URL}/717-fix.html",
+    "url": "{HTML_URL}/717-fix2.html",
     "author": "Anders Grube Jensen",
     "authorLink": "https://store.steampowered.com/app/2236070/Peaks_of_Yore/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 718,
+    "name": "Untitled Goose Game",
+    "cover": "{COVER_URL}/718.png",
+    "url": "{HTML_URL}/718.html",
+    "author": "House House",
+    "authorLink": "https://store.steampowered.com/app/837470/Untitled_Goose_Game/",
     "special": [
       "port"
     ]
