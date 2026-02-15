@@ -6320,5 +6320,27 @@
     "special": [
       "fnf"
     ]
+  },
+  {
+    "id": 716,
+    "name": "Clover Pit",
+    "cover": "{COVER_URL}/716.png",
+    "url": "{HTML_URL}/716.html",
+    "author": "Panik Arcade",
+    "authorLink": "https://store.steampowered.com/app/3314790/CloverPit/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 717,
+    "name": "Peaks of Yore",
+    "cover": "{COVER_URL}/717.png",
+    "url": "{HTML_URL}/717.html",
+    "author": "Anders Grube Jensen",
+    "authorLink": "https://store.steampowered.com/app/2236070/Peaks_of_Yore/",
+    "special": [
+      "port"
+    ]
   }
 ]
