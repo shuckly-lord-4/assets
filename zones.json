@@ -6351,5 +6351,13 @@
       "port"
     ],
     "featured": true
+  },
+  {
+    "id": 719,
+    "name": "A Game About Feeding A Black Hole",
+    "cover": "{COVER_URL}/719.png",
+    "url": "{HTML_URL}/719.html",
+    "author": "Aarimous, Thornityco",
+    "authorLink": "https://store.steampowered.com/app/3694480/A_Game_About_Feeding_A_Black_Hole/"
   }
 ]
