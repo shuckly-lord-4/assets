@@ -1756,7 +1756,6 @@
     "url": "{HTML_URL}/217-c.html",
     "author": "Dennaton Games",
     "authorLink": "https://store.steampowered.com/app/219150/Hotline_Miami/",
-    "featured": true,
     "special": [
       "port"
     ]
@@ -2239,7 +2238,6 @@
     "url": "{HTML_URL}/263.html",
     "author": "Id Software",
     "authorLink": "https://www.idsoftware.com/en",
-    "featured": true,
     "special": [
       "port"
     ]
@@ -3776,7 +3774,6 @@
     "url": "{HTML_URL}/446.html",
     "author": "Con Man Games, SmashGames and Sean Young",
     "authorLink": "https://store.steampowered.com/app/1067850/Kindergarten_2",
-    "featured": true,
     "special": [
       "port"
     ]
@@ -4653,7 +4650,6 @@
     "url": "{HTML_URL}/543-a.html",
     "author": "DaniDev",
     "authorLink": "https://danidev.itch.io/",
-    "featured": true,
     "special": [
       "port"
     ]
@@ -6330,7 +6326,8 @@
     "authorLink": "https://store.steampowered.com/app/3314790/CloverPit/",
     "special": [
       "port"
-    ]
+    ],
+    "featured": true
   },
   {
     "id": 717,
@@ -6352,6 +6349,7 @@
     "authorLink": "https://store.steampowered.com/app/837470/Untitled_Goose_Game/",
     "special": [
       "port"
-    ]
+    ],
+    "featured": true
   }
 ]
