@@ -273,7 +273,7 @@
     "id": 34,
     "name": "Retro Bowl College",
     "cover": "{COVER_URL}/34.png",
-    "url": "{HTML_URL}/34.html",
+    "url": "{HTML_URL}/34-fixed.html",
     "author": "New Star Games",
     "authorLink": "https://www.newstargames.com/"
   },
@@ -4282,7 +4282,7 @@
     "id": 502,
     "name": "Stick With It",
     "cover": "{COVER_URL}/502.png",
-    "url": "{HTML_URL}/502.html",
+    "url": "{HTML_URL}/502-fixed.html",
     "author": "Sam Hogan",
     "authorLink": "https://samhogan.itch.io/stick-with-it/",
     "special": [
@@ -4453,7 +4453,7 @@
     "id": 520,
     "name": "Dan The Man",
     "cover": "{COVER_URL}/520.png",
-    "url": "{HTML_URL}/520.html",
+    "url": "{HTML_URL}/520-fix.html",
     "author": "Halfbrick Studios",
     "authorLink": "https://play.google.com/store/apps/details?id=com.halfbrick.dantheman"
   },
@@ -6359,5 +6359,29 @@
     "url": "{HTML_URL}/719.html",
     "author": "Aarimous, Thornityco",
     "authorLink": "https://store.steampowered.com/app/3694480/A_Game_About_Feeding_A_Black_Hole/"
+  },
+  {
+    "id": 720,
+    "name": "Roulette Hero",
+    "cover": "{COVER_URL}/720.png",
+    "url": "{HTML_URL}/720.html",
+    "author": "vfqd, Mr.Pootsley, Jaybooty, Kane Forster",
+    "authorLink": "https://vfqd.itch.io/roulette-hero"
+  },
+  {
+    "id": 721,
+    "name": "Shift at Midnight",
+    "cover": "{COVER_URL}/721.png",
+    "url": "{HTML_URL}/721.html",
+    "author": "Bun Muen, Slqnt",
+    "authorLink": "https://bunmuen.itch.io/shiftatmidnight"
+  },
+  {
+    "id": 722,
+    "name": "Fused 240",
+    "cover": "{COVER_URL}/722.png",
+    "url": "{HTML_URL}/722.html",
+    "author": "Mike Klubnika, shxyder",
+    "authorLink": "https://bunmuen.itch.io/shiftatmidnight"
   }
 ]
