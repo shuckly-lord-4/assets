@@ -6382,6 +6382,22 @@
     "cover": "{COVER_URL}/722.png",
     "url": "{HTML_URL}/722.html",
     "author": "Mike Klubnika, shxyder",
-    "authorLink": "https://bunmuen.itch.io/shiftatmidnight"
+    "authorLink": "https://mikeklubnika.itch.io/fused-240"
+  },
+  {
+    "id": 723,
+    "name": "Brotato",
+    "cover": "{COVER_URL}/723.png",
+    "url": "{HTML_URL}/723.html",
+    "author": "Blobfish, Individual/Stinkalistic",
+    "authorLink": "https://store.steampowered.com/app/1942280/Brotato/"
+  },
+  {
+    "id": 724,
+    "name": "Endoparasitic 2",
+    "cover": "{COVER_URL}/724.png",
+    "url": "{HTML_URL}/724.html",
+    "author": "Miziziziz, Deep Root Interactive, Individual/Stinkalistic",
+    "authorLink": "https://store.steampowered.com/app/2990640/Endoparasitic_2/"
   }
 ]
