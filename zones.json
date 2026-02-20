@@ -6407,5 +6407,81 @@
     "url": "{HTML_URL}/725-ff.html",
     "author": "Shredsauce Team",
     "authorLink": "https://shredsauce.com"
+  },
+  {
+    "id": 726,
+    "name": "Breath of the Wild NDS",
+    "cover": "{COVER_URL}/726.png",
+    "url": "{HTML_URL}/726.html",
+    "author": "unknown",
+    "authorLink": "",
+    "special": [
+      "emulator",
+      "nds"
+    ]
+  },
+  {
+    "id": 727,
+    "name": "Dimension Incident",
+    "cover": "{COVER_URL}/727.png",
+    "url": "{HTML_URL}/727.html",
+    "author": "biznesbear",
+    "authorLink": "https://biznesbear.itch.io/dimensionincident"
+  },
+  {
+    "id": 728,
+    "name": "Fear Assessment",
+    "cover": "{COVER_URL}/728.png",
+    "url": "{HTML_URL}/728.html",
+    "author": "Alexander Wiseman",
+    "authorLink": "https://alexander-wiseman.itch.io/fear-assessment"
+  },
+  {
+    "id": 729,
+    "name": "game inside a game inside a game inside a game inside a game inside a game",
+    "cover": "{COVER_URL}/729.png",
+    "url": "{HTML_URL}/729.html",
+    "author": "Sam Hogan",
+    "authorLink": "https://samhogan.itch.io/game-inside-a-game"
+  },
+  {
+    "id": 730,
+    "name": "Cell Machine",
+    "cover": "{COVER_URL}/730.png",
+    "url": "{HTML_URL}/730.html",
+    "author": "Sam Hogan",
+    "authorLink": "https://samhogan.itch.io/cell-machine"
+  },
+  {
+    "id": 731,
+    "name": " Undertale: Last Breath",
+    "cover": "{COVER_URL}/731.png",
+    "url": "{HTML_URL}/731.html",
+    "author": "caijiqaq",
+    "authorLink": "https://caijiqaq.github.io/LAST-BREATH/"
+  },
+  {
+    "id": 732,
+    "name": " 64 in 1 NES",
+    "cover": "{COVER_URL}/732.png",
+    "url": "{HTML_URL}/732.html",
+    "author": "idk",
+    "authorLink": "https://www.doperoms.org/roms/nintendo_nes/64-in-1%2520%255Bp1%255D.zip.html/630301/64-in-1%20[p1].zip.html",
+    "special": [
+      "emulator",
+      "nes"
+    ]
+  },
+  {
+    "id": 733,
+    "name": "Tetris",
+    "cover": "{COVER_URL}/733.png",
+    "url": "{HTML_URL}/733.html",
+    "author": "Nintendo",
+    "authorLink": "https://www.nintendo.com/",
+    "special": [
+      "emulator",
+      "gba"
+    ]
   }
 ]
