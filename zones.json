@@ -6399,5 +6399,13 @@
     "url": "{HTML_URL}/724.html",
     "author": "Miziziziz, Deep Root Interactive, Individual/Stinkalistic",
     "authorLink": "https://store.steampowered.com/app/2990640/Endoparasitic_2/"
+  },
+  {
+    "id": 725,
+    "name": "ShredSauce",
+    "cover": "{COVER_URL}/725.png",
+    "url": "{HTML_URL}/725.html",
+    "author": "Shredsauce Team",
+    "authorLink": "https://shredsauce.com"
   }
 ]
