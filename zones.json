@@ -6374,7 +6374,10 @@
     "cover": "{COVER_URL}/721.png",
     "url": "{HTML_URL}/721.html",
     "author": "Bun Muen, Slqnt",
-    "authorLink": "https://bunmuen.itch.io/shiftatmidnight"
+    "authorLink": "https://bunmuen.itch.io/shiftatmidnight",
+    "special": [
+      "port"
+    ]
   },
   {
     "id": 722,
@@ -6382,7 +6385,10 @@
     "cover": "{COVER_URL}/722.png",
     "url": "{HTML_URL}/722.html",
     "author": "Mike Klubnika, shxyder",
-    "authorLink": "https://mikeklubnika.itch.io/fused-240"
+    "authorLink": "https://mikeklubnika.itch.io/fused-240",
+    "special": [
+      "port"
+    ]
   },
   {
     "id": 723,
@@ -6390,7 +6396,10 @@
     "cover": "{COVER_URL}/723.png",
     "url": "{HTML_URL}/723.html",
     "author": "Blobfish, Individual/Stinkalistic",
-    "authorLink": "https://store.steampowered.com/app/1942280/Brotato/"
+    "authorLink": "https://store.steampowered.com/app/1942280/Brotato/",
+    "special": [
+      "port"
+    ]
   },
   {
     "id": 724,
@@ -6398,7 +6407,10 @@
     "cover": "{COVER_URL}/724.png",
     "url": "{HTML_URL}/724.html",
     "author": "Miziziziz, Deep Root Interactive, Individual/Stinkalistic",
-    "authorLink": "https://store.steampowered.com/app/2990640/Endoparasitic_2/"
+    "authorLink": "https://store.steampowered.com/app/2990640/Endoparasitic_2/",
+    "special": [
+      "port"
+    ]
   },
   {
     "id": 725,
@@ -6482,6 +6494,17 @@
     "special": [
       "emulator",
       "gba"
+    ]
+  },
+  {
+    "id": 734,
+    "name": "Christmas Massacre",
+    "cover": "{COVER_URL}/734.png",
+    "url": "{HTML_URL}/734.html",
+    "author": "Puppet Combo",
+    "authorLink": "https://store.steampowered.com/app/1840490/Christmas_Massacre/",
+    "special": [
+      "port"
     ]
   }
 ]
