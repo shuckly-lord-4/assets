@@ -6506,5 +6506,28 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 735,
+    "name": "Famidash",
+    "cover": "{COVER_URL}/735.png",
+    "url": "{HTML_URL}/735.html",
+    "author": "Zephyrside",
+    "authorLink": "https://github.com/tfdsoft/famidash",
+    "special": [
+      "emulator",
+      "nes"
+    ]
+  },
+  {
+    "id": 736,
+    "name": "Super Mario Bros. Remastered",
+    "cover": "{COVER_URL}/736.png",
+    "url": "{HTML_URL}/736.html",
+    "author": "Zephyrside",
+    "authorLink": "https://github.com/tfdsoft/famidash",
+    "special": [
+      "port"
+    ]
   }
 ]
