@@ -5106,11 +5106,11 @@
   },
   {
     "id": 596,
-    "name": "[!] COMMENTS",
+    "name": "[!] FASTPACE CHATS",
     "cover": "{COVER_URL}/596-uu.png",
-    "url": "{HTML_URL}/596-u.html",
-    "author": "gn-math",
-    "authorLink": "https://gn-math.github.io",
+    "url": "{HTML_URL}/comments.html",
+    "author": "fastpace",
+    "authorLink": "https://fastpace.vercel.app",
     "featured": true,
     "special": [
       "tools"
