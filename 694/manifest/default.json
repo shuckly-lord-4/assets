@@ -1,0 +1,11 @@
+{
+	"assets": "aW50ZWdlcg==",
+	"version": 2,
+	"libraryArgs": [],
+	"requestId": 0,
+	"rootPath": "assets/",
+	"assets": [
+		{"id": "assets/images/menuBG.png", "size": 0, "type": "IMAGE", "preload": true},
+		{"id": "assets/music/freakyMenu.mp3", "size": 0, "type": "MUSIC", "preload": true}
+	]
+}
